@@ -280,7 +280,7 @@ body#pageMap article {
       body#pageMap article #map .leaflet-popup-content img {
         display: block;
         margin: 10px auto;
-        max-width: 265px !important; }
+        max-width: 100% !important; }
 body#pageMap aside {
   background: rgba(181, 203, 213, 0.9);
   bottom: 0;
