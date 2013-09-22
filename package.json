@@ -14,7 +14,6 @@
         "getconfig": "",
         "http-server": "",
         "jade": "",
-        "node-markdown": "",
         "underscore": ""
     },
     "main": "app.js",

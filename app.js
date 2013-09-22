@@ -4,7 +4,6 @@ var
     express = require('express'),
     util = require('util'),
     async = require('async'),
-    md = require("node-markdown").Markdown,
     app = express(),
     helpers = require('./app/helpers')({ config: config }),
     static = require('./app/controllers/static');
