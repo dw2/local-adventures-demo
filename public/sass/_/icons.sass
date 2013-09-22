@@ -1,0 +1,38 @@
+.icon
+    background: url('/images/icons-sprite.png') no-repeat
+    +bg_size(550px 175px)
+    +border_radius(50)
+    display: inline-block
+    height: 50px
+    overflow: hidden
+    position: relative
+    width: 50px
+
+    &.nature
+        background-position: -25px -100px
+        &.checked
+            background-position: -25px -25px
+    &.accessibility
+        background-position: -100px -100px
+        &.checked
+            background-position: -100px -25px
+    &.sports
+        background-position: -175px -100px
+        &.checked
+            background-position: -175px -25px
+    &.arts
+        background-position: -250px -100px
+        &.checked
+            background-position: -250px -25px
+    &.pets
+        background-position: -325px -100px
+        &.checked
+            background-position: -325px -25px
+    &.sights
+        background-position: -400px -100px
+        &.checked
+            background-position: -400px -25px
+    &.food
+        background-position: -475px -100px
+        &.checked
+            background-position: -475px -25px

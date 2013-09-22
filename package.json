@@ -1,0 +1,25 @@
+{
+    "name": "LocalAdventures",
+    "version": "0.0.1",
+    "homepage": "https://github.com/dw2/local-adventures",
+    "repository": {
+        "type": "git", 
+        "url": "git@github.com:dw2/local-adventures.git"
+    },
+    "description": "The Yelp of free stuff.",
+    "dependencies": {
+        "async": "",
+        "connect": "",
+        "express": "",
+        "getconfig": "",
+        "http-server": "",
+        "jade": "",
+        "node-markdown": "",
+        "underscore": ""
+    },
+    "main": "app.js",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}

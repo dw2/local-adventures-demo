@@ -1,0 +1,29 @@
+!!!5
+html
+  head
+    title #{(bodyId !== 'home') ? pageTitle + ' | ' : ''} Local Adventures
+    meta(name="viewport", content="width=device-width, initial-scale=.75, maximum-scale=.75")
+    meta(name="apple-mobile-web-app-capable", content="yes")
+    link(rel="stylesheet", href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css", type="text/css")
+    link(rel="stylesheet", href="//fonts.googleapis.com/css?family=Raleway:200,400,600", type="text/css")
+    link(rel="stylesheet", href="/css/reset.css", type="text/css")
+    link(rel="stylesheet", href="/css/app.css", type="text/css")
+    link(rel="shortcut icon", href="/images/favicon.png", type="image/x-icon")
+    block header
+
+  body(id="#{bodyId}", class="#{bodyClass} #{signedIn && currentUser.isAdmin() ? 'admin' : ''}")
+    .container
+      article
+        case typeof(flash)
+          when 'object'
+            each message, _type in flash
+              #flash(class="#{_type}")= message
+              break
+          when 'string'
+            #flash.default= flash
+        block content
+
+    script(src="/js/libs/jquery-1.9.1.min.js")
+    script(src="/js/libs/skylite.min.js")
+    script(src="/js/main.js")
+    block footer

@@ -1,0 +1,46 @@
++selection(#FBD739, #000)
+
+*:before,
+*:after
+    font-family: FontAwesome
+    -webkit-font-smoothing: antialiased
+
+body
+    font-family: 'Raleway', sans-serif
+    font-weight: 400
+    color: #58676d
+
+.btn,
+button,
+input[type="button"],
+input[type="submit"]
+    +border_radius(.25em)
+    background: #94acb5
+    border-bottom: 3px solid #6c8b97
+    color: #fff
+    display: inline-block
+    font-size: 1.1em
+    font-weight: 600
+    line-height: 3em
+    +opacity(.85)
+    padding: 0 2em
+    text-shadow: 0 -1px 1px #6c8b97
+    +transition(opacity .2s linear)
+    &:focus,
+    &:hover
+        +opacity(.99)
+    &.primary
+        background-color: #f06c4d
+        border-color: #cd5539
+        text-shadow: 0 -1px 1px #cd5539
+
+h1, h2, h3
+    color: #000
+    font-weight: 200
+    padding: 1em 0
+h1
+    font-size: 1.8em
+h2
+    font-size: 1.5em
+h3
+    font-size: 1.2em

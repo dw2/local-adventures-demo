@@ -1,0 +1,24 @@
+extends layout
+
+block footer
+    script(src="/js/map.js")
+
+block content
+  menu
+    img#logo(src='/images/header-logo.png', alt='Local Adventures')
+    dl
+      dt Settings
+      dd.adventures: a My Adventures
+      dd.settings: a Account Settings
+      dd.logout: a Logout
+
+  iframe(width='100%', height='300', frameborder='0', src='http://a.tiles.mapbox.com/v3/crossdiver.map-bn8vfpfw.html#12/46.31030004039056/-119.30070877075194')
+
+  aside
+    .icon.nature.checked
+    .icon.accessibility.checked
+    .icon.sports.checked
+    .icon.arts.checked
+    .icon.pets.checked
+    .icon.sights.checked
+    .icon.food.checked

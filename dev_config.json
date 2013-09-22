@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://lvh.me:3000",
+    "http": {
+        "port": 3000
+    },
+    "session": {
+        "secret": "Holy crap I hope I can get this demo done in time."
+    }
+}

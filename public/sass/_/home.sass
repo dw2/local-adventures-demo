@@ -1,0 +1,21 @@
+body#pageHome
+    .container
+        background: url('/images/home-footer.jpg') 50% 100% no-repeat #fff
+        +bg_size(100% auto)
+        min-height: 100%
+        left: 0
+        position: absolute
+        right: 0
+        top: 0
+
+    article
+        padding: 3em 0 6em
+        #logo
+            display: block
+            margin: 0 auto 3em
+            max-width: 508px
+            width: 80%
+
+    @media screen and (max-height: 500px)
+        body
+            +bg_size(100% 80%)

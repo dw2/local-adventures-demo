@@ -1,0 +1,111 @@
+body#pageMap
+    menu
+        background: #fff
+        bottom: 100%
+        +box_shadow(0 0 50px rgba(#000,.2))
+        height: 60px
+        left: 0
+        position: absolute
+        right: 0
+        z-index: 2
+        #logo
+            height: 40px
+            left: 10px
+            position: absolute
+            top: 10px
+        dl
+            padding: 40px 0 0
+            position: absolute
+            right: 10px
+            text-align: left
+            top: 10px
+            dt
+                color: #94acb5
+                height: 40px
+                overflow: hidden
+                position: absolute
+                right: 0
+                text-indent: -999em
+                top: 0
+                width: 40px
+                &:before
+                    content: '\F009'
+                    font-size: 30px
+                    left: 0
+                    line-height: 40px
+                    position: absolute
+                    right: 0
+                    text-align: center
+                    text-indent: 0
+                    top: 0
+            dd a
+                background: #62bcde
+                +border_radius(3,3,0,0)
+                color: #fff
+                display: block
+                line-height: 40px
+                padding: 0 10px 0 40px
+                position: relative
+                white-space: nowrap
+                width: 150px
+                &:before
+                    left: 0
+                    padding-right: 10px
+                    position: absolute
+                    text-align: center
+                    top: 0
+                    width: 40px
+                &:hover
+                    background: #7ecdeb
+            dd
+                display: none
+                &:last-child a
+                    +border_radius(0,0,3,3)
+                &.adventures a:before
+                    content: '\F041'
+                &.settings a:before
+                    content: '\F013'
+                &.logout a:before
+                    content: '\F08B'
+            dd + dd a
+                +border_radius(0)
+                border-top: 1px solid #55aaca
+            &:hover
+                &:after
+                    border: 6px solid transparent
+                    border-bottom-color: #62bcde
+                    content: ''
+                    position: absolute
+                    right: 14px
+                    top: 28px
+                dt
+                    color: #62bcde
+                dd
+                    display: block
+
+    article
+        bottom: 0
+        left: 0
+        position: fixed
+        right: 0
+        top: 60px
+        z-index: 1
+        iframe
+            height: 100%
+            width: 100%
+
+    aside
+        background: rgba(#b5cbd5,.9)
+        bottom: 0
+        left: 0
+        padding: 7px 0
+        position: absolute
+        right: 0
+        z-index: 2
+        .icon
+            +box_shadow(0 0 0 2px rgba(#000,.1))
+            cursor: pointer
+            margin: 3px
+            +transition(box-shadow .2s linear)
+            &:hover
+                +box_shadow(0 0 0 2px #fff)

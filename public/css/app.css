@@ -1,0 +1,295 @@
+::-moz-selection {
+  background: #fbd739;
+  color: black; }
+
+::-webkit-selection {
+  background: #fbd739;
+  color: black; }
+
+::selection {
+  background: #fbd739;
+  color: black; }
+
+*:before,
+*:after {
+  font-family: FontAwesome;
+  -webkit-font-smoothing: antialiased; }
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  color: #58676d; }
+
+.btn,
+button,
+input[type="button"],
+input[type="submit"] {
+  -moz-border-radius: 0.25em;
+  -o-border-radius: 0.25em;
+  -webkit-border-radius: 0.25em;
+  border-radius: 0.25em;
+  background: #94acb5;
+  border-bottom: 3px solid #6c8b97;
+  color: white;
+  display: inline-block;
+  font-size: 1.1em;
+  font-weight: 600;
+  line-height: 3em;
+  -moz-opacity: 0.85;
+  -webkit-opacity: 0.85;
+  opacity: 0.85;
+  filter: alpha(opacity=85);
+  padding: 0 2em;
+  text-shadow: 0 -1px 1px #6c8b97;
+  -moz-transition: opacity 0.2s linear;
+  -o-transition: opacity 0.2s linear;
+  -webkit-transition: opacity 0.2s linear;
+  transition: opacity 0.2s linear; }
+  .btn:focus, .btn:hover,
+  button:focus,
+  button:hover,
+  input[type="button"]:focus,
+  input[type="button"]:hover,
+  input[type="submit"]:focus,
+  input[type="submit"]:hover {
+    -moz-opacity: 0.99;
+    -webkit-opacity: 0.99;
+    opacity: 0.99;
+    filter: alpha(opacity=99); }
+  .btn.primary,
+  button.primary,
+  input[type="button"].primary,
+  input[type="submit"].primary {
+    background-color: #f06c4d;
+    border-color: #cd5539;
+    text-shadow: 0 -1px 1px #cd5539; }
+
+h1, h2, h3 {
+  color: black;
+  font-weight: 200;
+  padding: 1em 0; }
+
+h1 {
+  font-size: 1.8em; }
+
+h2 {
+  font-size: 1.5em; }
+
+h3 {
+  font-size: 1.2em; }
+
+.icon {
+  background: url("/images/icons-sprite.png") no-repeat;
+  -moz-background-size: 550px 175px;
+  -webkit-background-size: 550px 175px;
+  background-size: 550px 175px;
+  -moz-border-radius: 50px;
+  -o-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  display: inline-block;
+  height: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 50px; }
+  .icon.nature {
+    background-position: -25px -100px; }
+    .icon.nature.checked {
+      background-position: -25px -25px; }
+  .icon.accessibility {
+    background-position: -100px -100px; }
+    .icon.accessibility.checked {
+      background-position: -100px -25px; }
+  .icon.sports {
+    background-position: -175px -100px; }
+    .icon.sports.checked {
+      background-position: -175px -25px; }
+  .icon.arts {
+    background-position: -250px -100px; }
+    .icon.arts.checked {
+      background-position: -250px -25px; }
+  .icon.pets {
+    background-position: -325px -100px; }
+    .icon.pets.checked {
+      background-position: -325px -25px; }
+  .icon.sights {
+    background-position: -400px -100px; }
+    .icon.sights.checked {
+      background-position: -400px -25px; }
+  .icon.food {
+    background-position: -475px -100px; }
+    .icon.food.checked {
+      background-position: -475px -25px; }
+
+body#pageHome .container {
+  background: url("/images/home-footer.jpg") 50% 100% no-repeat white;
+  -moz-background-size: 100% auto;
+  -webkit-background-size: 100% auto;
+  background-size: 100% auto;
+  min-height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0; }
+body#pageHome article {
+  padding: 3em 0 6em; }
+  body#pageHome article #logo {
+    display: block;
+    margin: 0 auto 3em;
+    max-width: 508px;
+    width: 80%; }
+@media screen and (max-height: 500px) {
+  body#pageHome body {
+    -moz-background-size: 100% 80%;
+    -webkit-background-size: 100% 80%;
+    background-size: 100% 80%; } }
+
+body#pageMap menu {
+  background: white;
+  bottom: 100%;
+  -moz-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+  height: 60px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: 2; }
+  body#pageMap menu #logo {
+    height: 40px;
+    left: 10px;
+    position: absolute;
+    top: 10px; }
+  body#pageMap menu dl {
+    padding: 40px 0 0;
+    position: absolute;
+    right: 10px;
+    text-align: left;
+    top: 10px; }
+    body#pageMap menu dl dt {
+      color: #94acb5;
+      height: 40px;
+      overflow: hidden;
+      position: absolute;
+      right: 0;
+      text-indent: -999em;
+      top: 0;
+      width: 40px; }
+      body#pageMap menu dl dt:before {
+        content: "\F009";
+        font-size: 30px;
+        left: 0;
+        line-height: 40px;
+        position: absolute;
+        right: 0;
+        text-align: center;
+        text-indent: 0;
+        top: 0; }
+    body#pageMap menu dl dd a {
+      background: #62bcde;
+      -moz-border-radius-topleft: 3px;
+      -moz-border-radius-topright: 3px;
+      -moz-border-radius-bottomright: 0px;
+      -moz-border-radius-bottomleft: 0px;
+      -o-border-radius-topleft: 3px;
+      -o-border-radius-topright: 3px;
+      -o-border-radius-bottomright: 0px;
+      -o-border-radius-bottomleft: 0px;
+      -webkit-border-top-left-radius: 3px;
+      -webkit-border-top-right-radius: 3px;
+      -webkit-border-bottom-right-radius: 0px;
+      -webkit-border-bottom-left-radius: 0px;
+      border-top-left-radius: 3px;
+      border-top-right-radius: 3px;
+      border-bottom-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      color: white;
+      display: block;
+      line-height: 40px;
+      padding: 0 10px 0 40px;
+      position: relative;
+      white-space: nowrap;
+      width: 150px; }
+      body#pageMap menu dl dd a:before {
+        left: 0;
+        padding-right: 10px;
+        position: absolute;
+        text-align: center;
+        top: 0;
+        width: 40px; }
+      body#pageMap menu dl dd a:hover {
+        background: #7ecdeb; }
+    body#pageMap menu dl dd {
+      display: none; }
+      body#pageMap menu dl dd:last-child a {
+        -moz-border-radius-topleft: 0px;
+        -moz-border-radius-topright: 0px;
+        -moz-border-radius-bottomright: 3px;
+        -moz-border-radius-bottomleft: 3px;
+        -o-border-radius-topleft: 0px;
+        -o-border-radius-topright: 0px;
+        -o-border-radius-bottomright: 3px;
+        -o-border-radius-bottomleft: 3px;
+        -webkit-border-top-left-radius: 0px;
+        -webkit-border-top-right-radius: 0px;
+        -webkit-border-bottom-right-radius: 3px;
+        -webkit-border-bottom-left-radius: 3px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px; }
+      body#pageMap menu dl dd.adventures a:before {
+        content: "\F041"; }
+      body#pageMap menu dl dd.settings a:before {
+        content: "\F013"; }
+      body#pageMap menu dl dd.logout a:before {
+        content: "\F08B"; }
+    body#pageMap menu dl dd + dd a {
+      -moz-border-radius: 0px;
+      -o-border-radius: 0px;
+      -webkit-border-radius: 0px;
+      border-radius: 0px;
+      border-top: 1px solid #55aaca; }
+    body#pageMap menu dl:hover:after {
+      border: 6px solid transparent;
+      border-bottom-color: #62bcde;
+      content: "";
+      position: absolute;
+      right: 14px;
+      top: 28px; }
+    body#pageMap menu dl:hover dt {
+      color: #62bcde; }
+    body#pageMap menu dl:hover dd {
+      display: block; }
+body#pageMap article {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 60px;
+  z-index: 1; }
+  body#pageMap article iframe {
+    height: 100%;
+    width: 100%; }
+body#pageMap aside {
+  background: rgba(181, 203, 213, 0.9);
+  bottom: 0;
+  left: 0;
+  padding: 7px 0;
+  position: absolute;
+  right: 0;
+  z-index: 2; }
+  body#pageMap aside .icon {
+    -moz-box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    margin: 3px;
+    -moz-transition: box-shadow 0.2s linear;
+    -o-transition: box-shadow 0.2s linear;
+    -webkit-transition: box-shadow 0.2s linear;
+    transition: box-shadow 0.2s linear; }
+    body#pageMap aside .icon:hover {
+      -moz-box-shadow: 0 0 0 2px white;
+      -webkit-box-shadow: 0 0 0 2px white;
+      box-shadow: 0 0 0 2px white; }
