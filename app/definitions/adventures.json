@@ -1,0 +1,1102 @@
+[
+    {
+      "id": 2,
+      "name": "Consolidated Information Center",
+      "type": "Meeting place",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Indoor",
+        "Food available"
+      ],
+      "season": [],
+      "tags": [
+        "school",
+        "studying",
+        "ilovecollege"
+      ],
+      "location": {
+        "lat": 46.332825,
+        "lon": -119.264213
+      },
+      "description": "Like minded people with an interest in computers"
+    },
+    {
+      "id": 3,
+      "name": "Outdoor Volleyball/Soccer/Basketball",
+      "type": "Campus sporting area",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "volleyball",
+        "basketball",
+        "soccer",
+        "familyfriendly",
+        "groupactivity",
+        "columbiariver",
+        "WSUTC"
+      ],
+      "location": {
+        "lat": 46.328143,
+        "lon": -119.27046
+      },
+      "description": "Located in the middle of the open campus are (often unoccupied) basketball, volleyball, and soccer fields/courts. Instead of going to the park to wait for an open spot, use this quiet place by the river! All courts located in between major buildings on campus. Park in lot next to the Consolidated Information Center (green roof), walk to the field on the south side of the building, and toward the river. 1-2 min walk. Nice weather required."
+    },
+    {
+      "id": 4,
+      "name": "Hills West Park",
+      "type": "Park / small / public sleeping",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer"
+      ],
+      "tags": [
+        "sleepatthepark"
+      ],
+      "location": {
+        "lat": 46.240355,
+        "lon": -119.266444
+      },
+      "description": "Great place to sleep under trees, amazing small scale playground. Largest uninterrupted grass field in Hills West neighborhood."
+    },
+    {
+      "id": 5,
+      "name": "Columbia river view",
+      "type": "Viewpoint",
+      "stats": [
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.312184,
+        "lon": -119.261539
+      },
+      "description": "Nice river view"
+    },
+    {
+    "id": 6,
+    "name": "Tennis court",
+    "type": "Sport area",
+    "stats": [
+      "Family friendly",
+      "Wheelchair accessible",
+      "Outdoor",
+      "Heart healthy",
+      "Great view"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "tags": [],
+    "location": {
+      "lat": 46.311744,
+      "lon": -119.262354
+    },
+    "description": "Two tennis court for public use"
+  },
+  {
+      "id": 7,
+      "name": "Basketball court",
+      "type": "Sport area",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [],
+      "tags": [],
+      "location": {
+        "lat": 46.312069,
+        "lon": -119.262343
+      },
+      "description": "One basketball court for public use"
+    },
+    {
+        "id": 8,
+        "name": "Big Flat HMU",
+        "type": "Hike",
+        "stats": [
+          "Family friendly",
+          "Outdoor",
+          "Heart healthy",
+          "Great view"
+        ],
+        "season": [
+          "Spring",
+          "Fall"
+        ],
+        "tags": [
+          "hike"
+        ],
+        "location": {
+          "lat": 46.300576,
+          "lon": -118.786547
+        },
+        "description": "Big Flat is a .... well, FLAT little walking area east of Pasco on the Snake River. It′s popular with fisherman and hunters, but is a quite pleasant place to take a hike. There are several crisscrossing paths, and is dog-friendly. Very nice view of the Snake River."
+      },
+      {
+      "id": 9,
+      "name": "Yakima Delta Hike",
+      "type": "Hike",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Indoor",
+        "Food available"
+      ],
+      "season": [],
+      "tags": [],
+      "location": {
+        "lat": 46.243406,
+        "lon": -119.263491
+      },
+      "description": "A hike in the tri-cities that actually has a little bit of wilderness. It can be hiked through from different sides of the river, and kayaked through for another angle on things."
+    },
+    {
+      "id": 10,
+      "name": "West Hills Basketball Courts",
+      "type": "Basketball Court",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer"
+      ],
+      "tags": [
+        "familyfun",
+        "ballinthesun"
+      ],
+      "location": {
+        "lat": 46.231376,
+        "lon": -119.261337
+      },
+      "description": "Basketball courts next to a small park. Park features spectacular trees, at least 3, as well as grass. Second best grass field in the West Hills Neighborhood."
+    },
+    {
+      "id": 11,
+      "name": "Keene Trail",
+      "type": "Walk / Run Path",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Food available"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "healthyliving"
+      ],
+      "location": {
+        "lat": 46.246944,
+        "lon": -119.300722
+      },
+      "description": "Newly paved concrete path running through the heart of South Richland. Offers plenty of space for rollerblading and running. Great for family outings and day trips through town."
+    },
+    {
+      "id": 12,
+      "name": "Claybell Park",
+      "type": "Biking / running trails",
+      "stats": [
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "GoBigOrGoHome"
+      ],
+      "location": {
+        "lat": 46.216857,
+        "lon": -119.253677
+      },
+      "description": "Behind the Claybell Park Soccer field are off-road trails for mountain biking and BMXing. I hit a sweet jump on my sisters 6 speed, snapped the frame, and had to buy her a new bike. Im out $120, but she loves the new bike. All and all it was totally worth it. 5 star set of trails, I will be sure to go back."
+    },
+    {
+      "id": 13,
+      "name": "Bateman Island",
+      "type": "Viewpoint, Hike",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy",
+        "Great view",
+        "Food available"
+      ],
+      "season": [
+        "Spring",
+        "Summer"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.243501,
+        "lon": -119.226919
+      },
+      "description": "Batemaon Island offers many different waling trails as well as outlook spots for viewing the Columbia River. The Bateman Island trails allows you to walk right across to the middle of the island. The entrance to the trail has a gazebo area that has some information about the surrounding area, and the history of the columbia river. Directly across the street are multiple shops and restaurants."
+    },
+    {
+      "id": 14,
+      "name": "Kennewick Family Fishing Pond",
+      "type": "Fishing pond",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "fishing"
+      ],
+      "location": {
+        "lat": 46.219203,
+        "lon": -119.144221
+      },
+      "description": "A small fishing pond near the playground of dreams. This is a great place for families and small kids to fish for trout. The pond is stocked with trout. This is also located next to lots of amenities including restrooms, picnic tables, playground, bbq grills, and more."
+    },
+    {
+      "id": 15,
+      "name": "Paddle Wheel",
+      "type": "Historical Relic",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "americanhistory"
+      ],
+      "location": {
+        "lat": 46.216337,
+        "lon": -119.124033
+      },
+      "description": "The Paddle Wheel, a historical Icon from the storied history of westward expansion in the NorthWest. I had a great time looking at the Paddle Wheel. Really felt the wonder and excitement of steaming down the Columbia river in a steam paddle boat."
+    },
+    {
+      "id": 16,
+      "name": "Chamna Natural Preserve",
+      "type": "Hike, Viewpoint, Mountain biking",
+      "stats": [
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "hike",
+        "mountainbike",
+        "walking"
+      ],
+      "location": {
+        "lat": 46.251574,
+        "lon": -119.274298
+      },
+      "description": "The Chamna preserve has a great view of the Yakima river along with several hiking or mountain biking trails. This is a great hidden location where you can enjoy the outdoors, go for a job, or just enjoy the river."
+    },
+    {
+      "id": 17,
+      "name": "The Great Alpaca Adventure!",
+      "type": "Alpaca farm",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [],
+      "tags": [
+        "tcalpacas",
+        "alpacastricities"
+      ],
+      "location": {
+        "lat": 46.291547,
+        "lon": -119.32247
+      },
+      "description": "There is an important alpaca farming micro economy in the greater Mid-Columbia. Alpacas are cute and fluffy. Enter here and you′ll be able to learn a little more about Alpaca fleece, alpaca farming and more. The lady who owns this farm is super friendly, knowledgeable and loves her alpacas. She′ll be more than happy to talk to you and let you take pictures. It′s free, you just have to be a little nosy."
+    },
+    {
+      "id": 18,
+      "name": "Badger Mountain Hiking Trails",
+      "type": "Hike, viewpoint",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "hike"
+      ],
+      "location": {
+        "lat": 46.236365,
+        "lon": -119.307222
+      },
+      "description": "Trailhead for several hiking trails up or around Badger Mountain. The top of Badger Mountain offers spectacular views of the entire Tri-city area."
+    },
+    {
+      "id": 19,
+      "name": "Columbia River Access",
+      "type": "Viewpoint, Park",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.307295,
+        "lon": -119.263931
+      },
+      "description": "Leslie Groves Park, an easy access to the Columbia River in all seasons. A family friendly place."
+    },
+    {
+      "id": 20,
+      "name": "Beach Volleyball Court",
+      "type": "Physical activity, Park",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "school",
+        "studying",
+        "ilovecollege"
+      ],
+      "location": {
+        "lat": 46.306338,
+        "lon": -119.264062
+      },
+      "description": "Two beach volleyball courts for the public. A popular spot for locals hanging out in the nice weathers."
+    },
+    {
+      "id": 21,
+      "name": "State Patrol Mountain Bike Trails",
+      "type": "Mountain bike",
+      "stats": [
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "mountainbike"
+      ],
+      "location": {
+        "lat": 46.171287,
+        "lon": -119.190892
+      },
+      "description": "Mountain Bike Trail near the state patrol in Kennewick. Lots of great mountain bike trails to explore."
+    },
+    {
+      "id": 22,
+      "name": "Adventures Underground",
+      "type": "Local Bookstore",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Indoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.289506,
+        "lon": -119.275322
+      },
+      "description": "Adventures Underground is a locally owned and operated mom and pop shop with great selections of comic books, vinyl records, etc."
+    },
+    {
+      "id": 23,
+      "name": "Master Gardener Demonstration Garden",
+      "type": "Gardens",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "garden"
+      ],
+      "location": {
+        "lat": 46.193791,
+        "lon": -119.183148
+      },
+      "description": "Beautiful gardens with walking paths between the different gardens. Near the library and park. Easy access."
+    },
+    {
+      "id": 24,
+      "name": "Bear Statue",
+      "type": "Restaurant",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.286429,
+        "lon": -119.276608
+      },
+      "description": "An interesting bear statue outside the Uptown Restaurant."
+    },
+    {
+      "id": 25,
+      "name": "Dolphin Statue",
+      "type": "Street Art",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.286574,
+        "lon": -119.27659
+      },
+      "description": "A dolphin Statue"
+    },
+    {
+      "id": 26,
+      "name": "Hand-shaped Chairs",
+      "type": "Street Art",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.286664,
+        "lon": -119.276582
+      },
+      "description": "Good sized hand-shaped chairs outside Dawson Richards Tux Shop"
+    },
+    {
+      "id": 27,
+      "name": "Skateboard Park",
+      "type": "Skateboard Park",
+      "stats": [
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "school",
+        "studying",
+        "ilovecollege"
+      ],
+      "location": {
+        "lat": 46.284305,
+        "lon": -119.281075
+      },
+      "description": "Local Skateboard park to practice your skateboard and bicycle skills"
+    },
+    {
+      "id": 28,
+      "name": "Leslie Groves",
+      "type": "Hike",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "hike",
+        "job",
+        "scenicview"
+      ],
+      "location": {
+        "lat": 46.314879,
+        "lon": -119.261382
+      },
+      "description": "A short jog trail with some park benches with nice views of the water"
+    },
+    {
+      "id": 29,
+      "name": "James Lawless Park",
+      "type": "",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.265505,
+        "lon": -119.288426
+      },
+      "description": "A newly opened discgolf course. http://www.dgcoursereview.com/course.php?id=5688"
+    },
+    {
+      "id": 30,
+      "name": "Leslie Groves Soccerfield",
+      "type": "Field",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "soccer",
+        "frisbee",
+        "grass"
+      ],
+      "location": {
+        "lat": 46.310544,
+        "lon": -119.262705
+      },
+      "description": "You can play soccer here"
+    },
+    {
+      "id": 31,
+      "name": "Howard Amon Park",
+      "type": "Park",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.275042,
+        "lon": -119.271187
+      },
+      "description": "A 45.91 acres located along the Columbia River. The center location of the city of Richland."
+    },
+    {
+      "id": 32,
+      "name": "Street Statues",
+      "type": "Street Art",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.277285,
+        "lon": -119.275089
+      },
+      "description": "Modern street arts. A circular statue and a red color statue."
+    },
+    {
+      "id": 33,
+      "name": "Swim to an Island",
+      "type": "Swim",
+      "stats": [
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Summer"
+      ],
+      "tags": [
+        "swim",
+        "explore"
+      ],
+      "location": {
+        "lat": 46.306995,
+        "lon": -119.260465
+      },
+      "description": "Swim across the river to this neat island for a great time with the birds!"
+    },
+    {
+      "id": 34,
+      "name": "Secret Dock",
+      "type": "Fishing spot",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "fishing",
+        "outdoor"
+      ],
+      "location": {
+        "lat": 46.309407,
+        "lon": -119.262058
+      },
+      "description": "I went fishing here"
+    },
+    {
+      "id": 35,
+      "name": "Leslie Groves Baseball Field",
+      "type": "Baseball field",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "baseball"
+      ],
+      "location": {
+        "lat": 46.309789,
+        "lon": -119.262509
+      },
+      "description": "A great field for playing baseball with some other great activities nearby"
+    },
+    {
+      "id": 36,
+      "name": "Monkey Bars",
+      "type": "Playground equipment",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.308951,
+        "lon": -119.262777
+      },
+      "description": "Some simple monkey bars, good for pullups in the middle of your run"
+    },
+    {
+      "id": 37,
+      "name": "Leslie Groves Cool Tree",
+      "type": "Tree",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "tree",
+        "plants",
+        "fauna"
+      ],
+      "location": {
+        "lat": 46.308309,
+        "lon": -119.262892
+      },
+      "description": "This is a cool tree that I like to look at"
+    },
+    {
+      "id": 38,
+      "name": "Leslie Groves Horse Shoes",
+      "type": "Horseshoe Alley",
+      "stats": [
+        "Family friendly",
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "horseshoes"
+      ],
+      "location": {
+        "lat": 46.308382,
+        "lon": -119.263232
+      },
+      "description": "You can play horseshoes here."
+    },
+    {
+      "id": 39,
+      "name": "Leslie Groves Jungle Gym",
+      "type": "Jungle gym",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart health"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "tags": [
+        "playground",
+        "kids"
+      ],
+      "location": {
+        "lat": 46.308512,
+        "lon": -119.263529
+      },
+      "description": "You can have fun on the jungle gym"
+    },
+    {
+      "id": 40,
+      "name": "Flat Top Hill",
+      "type": "Hike",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Heart healthy",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "hike",
+        "hill",
+        "exercise",
+        "view"
+      ],
+      "location": {
+        "lat": 46.300148,
+        "lon": -119.355855
+      },
+      "description": "There′s a cross at the top of this hill, very fun to hike. It′s sandy, steep and a fun physical challenge for someone looking for a great view. A popular spot for West Richland people looking for a cool adventure."
+    },
+    {
+      "id": 41,
+      "name": "Allied Arts Gallery",
+      "type": "Art Gallery",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Indoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "art",
+        "sculpture",
+        "jewelry",
+        "painting",
+        "prints"
+      ],
+      "location": {
+        "lat": 46.274638,
+        "lon": -119.272546
+      },
+      "description": "A great place to check out some amazing art. You can buy jewelry and various art pieces and they have a separate gallery with various works of art."
+    },
+    {
+      "id": 42,
+      "name": "The Parkade Dog",
+      "type": "Sculpture",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "sculpture",
+        "art",
+        "culture"
+      ],
+      "location": {
+        "lat": 46.275432,
+        "lon": -119.274433
+      },
+      "description": "A bronze dog sculpture."
+    },
+    {
+      "id": 43,
+      "name": "Parkade Pond",
+      "type": "Pond",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "pond",
+        "nature",
+        "lovely"
+      ],
+      "location": {
+        "lat": 46.275333,
+        "lon": -119.274255
+      },
+      "description": "A cool little pond with some fountains in it."
+    },
+    {
+      "id": 44,
+      "name": "Le Plaza Eye",
+      "type": "Viewpoint",
+      "stats": [
+        "Family friendly",
+        "Outdoor",
+        "Great view"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "plaza",
+        "viewpoint",
+        "river"
+      ],
+      "location": {
+        "lat": 46.274865,
+        "lon": -119.270188
+      },
+      "description": "A super cool plaza to sit down on a bench and watch the river."
+    },
+    {
+      "id": 45,
+      "name": "A Stump",
+      "type": "Good photo spot",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "stump",
+        "photo",
+        "art"
+      ],
+      "location": {
+        "lat": 46.274675,
+        "lon": -119.270789
+      },
+      "description": "This is a great tree stump to take pictures with."
+    },
+    {
+      "id": 46,
+      "name": "Totem Tree",
+      "type": "Carved Totem Tree",
+      "stats": [
+        "Outdoor"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [
+        "art",
+        "tree",
+        "totem",
+        "carving"
+      ],
+      "location": {
+        "lat": 46.274443,
+        "lon": -119.270762
+      },
+      "description": "It′s a cool carved tree that looks like a Totem Pole"
+    },
+    {
+      "id": 47,
+      "name": "Veteran′s Memorial",
+      "type": "Meeting place",
+      "stats": [
+        "Family friendly",
+        "Wheelchair accessible",
+        "Indoor",
+        "Food available"
+      ],
+      "season": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "tags": [],
+      "location": {
+        "lat": 46.329607,
+        "lon": -119.262416
+      },
+      "description": "A cool sculpture of pages flying up in the air. On the pages is some words from a fallen soldiers diary."
+    }
+]
