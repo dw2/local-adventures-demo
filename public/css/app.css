@@ -269,8 +269,18 @@ body#pageMap article {
   top: 60px;
   z-index: 1; }
   body#pageMap article #map {
+    font-size: 14px;
     height: 100%;
     width: 100%; }
+    body#pageMap article #map .leaflet-popup-content {
+      font-family: "Raleway", sans-serif !important;
+      font-weight: 400; }
+      body#pageMap article #map .leaflet-popup-content .marker-title {
+        font-weight: 600; }
+      body#pageMap article #map .leaflet-popup-content img {
+        display: block;
+        margin: 10px auto;
+        max-width: 265px !important; }
 body#pageMap aside {
   background: rgba(181, 203, 213, 0.9);
   bottom: 0;
