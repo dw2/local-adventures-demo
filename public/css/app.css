@@ -268,7 +268,7 @@ body#pageMap article {
   right: 0;
   top: 60px;
   z-index: 1; }
-  body#pageMap article iframe {
+  body#pageMap article #map {
     height: 100%;
     width: 100%; }
 body#pageMap aside {

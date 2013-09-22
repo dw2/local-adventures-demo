@@ -3,7 +3,8 @@ module.exports = {
         res.render('index', {pageTitle: 'Local Adventures', bodyId: 'pageHome'});
     },
     search: function (req, res) {
-        res.render('search', {pageTitle: 'Find an Adventure', bodyId: 'pageMap'});
+        var adventures = require('../definitions/adventures.json');
+        res.render('search', {pageTitle: 'Find an Adventure', bodyId: 'pageMap', adventures: adventures});
     },
     status404: function (req, res) {
         res.render('404', {status: 404, pageTitle: 'Missing Page', bodyId: 'status404'});
