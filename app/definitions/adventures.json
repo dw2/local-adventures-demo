@@ -1144,5 +1144,61 @@
         "lon": -119.262416
       },
       "description": "A cool sculpture of pages flying up in the air. On the pages is some words from a fallen soldiers diary."
+    },
+    {
+        "id": 49,
+        "name": "Rock Feature at WSU Campus",
+        "type": "",
+        "hasImage": true,
+        "stats": [],
+        "season": [],
+        "tags": [],
+        "location": {
+            "lat": 46.3312,
+            "lon": -119.26252
+        },
+        "description": "Street Art"
+    },
+    {
+        "id": 50,
+        "name": "Cougar Statue at WSU Campus",
+        "type": "",
+        "hasImage": true,
+        "stats": [],
+        "season": [],
+        "tags": [],
+        "location": {
+            "lat": 46.330133,
+            "lon": -119.263824
+        },
+        "description": "WSU Mascot"
+    },
+    {
+        "id": 51,
+        "name": "Bike Path Makers on River Front nearby WSU",
+        "type": "Street Art",
+        "hasImage": true,
+        "stats": [],
+        "season": [],
+        "tags": [],
+        "location": {
+            "lat": 46.331408,
+            "lon": -119.262536
+        },
+        "description": ""
+    },
+    {
+        "id": 52,
+        "name": "Triton Submarine",
+        "type": "Historical Site",
+        "hasImage": true,
+        "stats": [],
+        "season": [],
+        "tags": [],
+        "location": {
+            "lat": 46.348719,
+            "lon": -119.269628
+        },
+        "description": ""
     }
 ]
